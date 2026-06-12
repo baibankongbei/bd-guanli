@@ -20,7 +20,7 @@ const workbenchItems = [
   { icon: BarChart3, label: '数据报表', path: '/reports', bg: 'bg-info/10', iconColor: 'text-info' },
   { icon: Gift, label: '活动管理', path: '/activities', bg: 'bg-destructive/10', iconColor: 'text-destructive' },
   { icon: BookOpen, label: '操作指南', path: '/guide', bg: 'bg-primary/10', iconColor: 'text-primary' },
-  { icon: Headphones, label: '联系客服', path: '/support', bg: 'bg-accent/10', iconColor: 'text-accent' },
+  { icon: Target, label: '线索管理', path: '/support', bg: 'bg-accent/10', iconColor: 'text-accent' },
 ];
 
 const marketingMaterials = [
