@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import {
   ChevronRight, Share2,
-  Store, Wallet, Users, Navigation2, BarChart3, Gift, BookOpen, Headphones,
+  Store, Wallet, Users, Navigation2, BarChart3, Gift, BookOpen, Target,
   Home, Bot, User, Bell, TrendingUp, QrCode, MessageCircle, Globe, Save
 } from 'lucide-react';
 import { Dialog, DialogContent, DialogTitle } from '@/components/ui/dialog';
